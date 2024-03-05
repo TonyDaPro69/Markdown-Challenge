@@ -84,7 +84,7 @@ than it is to get permission<br>
 <td>em***bold***en</td>
 </tr>
 </tbody>
-</table><pre class=" language-javascript"><code class="prism  language-javascript"><span class="token keyword">import</span> <span class="token string">"fmt"</span>
+</table><pre class=" language-java"><code class="prism  language-java"><span class="token keyword">import</span> <span class="token string">"fmt"</span>
 func <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
 	fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span><span class="token string">"Hello, World!"</span><span class="token punctuation">)</span>
 <span class="token punctuation">}</span>
@@ -107,7 +107,7 @@ em***bold***en
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> Get logos</li>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Check spacing, styles, syntax, etc</li>
 </ul>
-<h2 id="link-resources">🔗 Resources</h2>
+<h2 id="resources">Resources</h2>
 <h3 id="images">Images</h3>
 <h4 id="google-images-h4">Google Images (h4)</h4>
 <h5 id="png-logos-h5">PNG Logos (h5)</h5>
